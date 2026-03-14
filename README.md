@@ -1,4 +1,3 @@
-
 ## Exercise 1
 
 1. Do items appear in a list?
