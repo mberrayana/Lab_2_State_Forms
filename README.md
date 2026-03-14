@@ -1,7 +1,7 @@
 ## Exercise 1
 
 1. Do items appear in a list?
-This confirms that the component correctly renders the current list of items stored in state. Each item should be displayed using .map() to output list elements inside <li> tags within a <ul>.
+This confirms that the component correctly renders the current list of items stored in state. Each item should be displayed using .map() to output list elements.
 
 2. Does "Add" button add items?
 When the "Add Random Item" button is clicked, a new item from a predefined set should be added to the state array without mutating the original array. The update should trigger a re-render and the new item should appear in the list.
